@@ -7,6 +7,8 @@ a quick tool for vector graphics
 
 [kicad](https://github.com/davekelly63/kicad)
 
+[svg](https://github.com/bodoni/svg)
+
 [usvg](https://github.com/RazrFalcon/usvg)
 
 [resvg](https://github.com/RazrFalcon/resvg)
@@ -28,3 +30,5 @@ a quick tool for vector graphics
 [efficient_route_planning](https://github.com/shterrett/efficient_route_planning)
 
 [rtt](https://github.com/swizard0/rtt)
+
+[rustrace](https://github.com/turbio/rustrace)

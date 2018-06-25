@@ -12,6 +12,7 @@ serde = "*"
 serde_derive = "*"
 geo = "*"
 pathfinding = "0.8"
+svg = "0.5.10"
 
 
 [[bin]]
