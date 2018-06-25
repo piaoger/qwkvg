@@ -1,2 +1,3 @@
 # qwkvg
-I am always lazy bone .....
+
+a quick tool for vector graphics

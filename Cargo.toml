@@ -1,0 +1,11 @@
+[package]
+name = "qwkvg"
+version = "0.1.0"
+authors = ["piaoger"]
+
+[dependencies]
+
+
+[[bin]]
+name = "qwkvg"
+doc = false
