@@ -4,6 +4,14 @@ version = "0.1.0"
 authors = ["piaoger"]
 
 [dependencies]
+arrayvec = "*"
+lyon_geom = "*"
+lyon_path = "*"
+lyon_svg = "*"
+serde = "*"
+serde_derive = "*"
+geo = "*"
+pathfinding = "0.8"
 
 
 [[bin]]
