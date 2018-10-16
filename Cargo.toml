@@ -13,6 +13,11 @@ serde_derive = "*"
 geo = "*"
 pathfinding = "0.8"
 svg = "0.5.10"
+#dxf = "0.3.0"
+libc = "*"
+
+[dependencies.dxf]
+git = "https://github.com/IxMilia/dxf-rs.git"
 
 
 [[bin]]
